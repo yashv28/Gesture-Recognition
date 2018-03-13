@@ -7,6 +7,6 @@ The data format of the IMU readings collected from consumer mobile device is:
 
 | ts | Ax Ay Az	| Wx Wy Wz |
 | ----------- | ----------- | ----------- |
-| Time (ms) | 3x Accelerometer (m/s<sup>2\</sup>) |	3x Gyroscope (rad/s) |
+| Time (ms) | 3x Accelerometer (m/s<sup>2</sup>) |	3x Gyroscope (rad/s) |
 
 
